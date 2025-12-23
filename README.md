@@ -79,7 +79,7 @@ Complete **production-grade** RL infrastructure showcasing systematic engineerin
 ### 1 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/minigrid-irl-portfolio.git
+git clone https://github.com/loxleyftsck/partial-observability-rl-minigrid.git
 cd minigrid-irl-portfolio
 python -m venv venv
 source venv/bin/activate  # Windows: .\venv\Scripts\Activate.ps1
@@ -236,13 +236,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-##  Contact
-
-**Your Name** - [@your_twitter](https://twitter.com/your_twitter)
-
-Project Link: [https://github.com/YOUR_USERNAME/minigrid-irl-portfolio](https://github.com/YOUR_USERNAME/minigrid-irl-portfolio)
-
----
 
 <div align="center">
 
@@ -253,4 +246,5 @@ Project Link: [https://github.com/YOUR_USERNAME/minigrid-irl-portfolio](https://
 [ Back to Top](#-interpretable-rl--inverse-rl-portfolio)
 
 </div>
+
 
