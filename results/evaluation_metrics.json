@@ -1,0 +1,15 @@
+{
+  "mean_reward": 0.0,
+  "std_reward": 0.0,
+  "min_reward": 0.0,
+  "max_reward": 0.0,
+  "mean_length": 640.0,
+  "std_length": 0.0,
+  "min_length": 640,
+  "max_length": 640,
+  "success_rate": 0.0,
+  "n_episodes": 100,
+  "env_name": "MiniGrid-DoorKey-8x8-v0",
+  "model_path": "results/models/baseline/ppo_baseline_final",
+  "num_failures": 10
+}
