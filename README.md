@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com)
 
-![Project Banner](https://via.placeholder.com/1200x300/667eea/ffffff?text=Interpretable+RL+%26+Inverse+RL+Portfolio)
+![Project Banner](assets/project_banner.png)
 
 [ Live Dashboard](#-interactive-dashboard)  [ Features](#-key-features)  [ Quick Start](#-quick-start)  [ Results](#-results)
 
@@ -46,7 +46,7 @@ Complete **production-grade** RL infrastructure showcasing systematic engineerin
 
 <div align="center">
 
-![Dashboard Preview](https://via.placeholder.com/800x450/667eea/ffffff?text=Interactive+Web+Dashboard)
+![Dashboard Preview](assets/dashboard_preview.png)
 
 **Real-time training monitoring  Beautiful gradient UI  Auto-refresh metrics**
 
@@ -253,3 +253,4 @@ Project Link: [https://github.com/YOUR_USERNAME/minigrid-irl-portfolio](https://
 [ Back to Top](#-interpretable-rl--inverse-rl-portfolio)
 
 </div>
+
