@@ -46,7 +46,16 @@ Complete **production-grade** RL infrastructure showcasing systematic engineerin
 
 <div align="center">
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Research Dashboard - Full HD](assets/research_dashboard_hd.png)
+
+### Training Progress
+![Training Visualization](assets/training_visualization.png)
+
+### System Architecture
+![Architecture Diagram](assets/architecture_detailed.png)
+
+### Results Comparison
+![Results Infographic](assets/results_infographic.png)
 
 **Real-time training monitoring  Beautiful gradient UI  Auto-refresh metrics**
 
@@ -246,5 +255,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [ Back to Top](#-interpretable-rl--inverse-rl-portfolio)
 
 </div>
+
 
 
